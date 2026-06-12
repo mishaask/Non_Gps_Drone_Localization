@@ -1,0 +1,27 @@
+# Python / environment
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Generated outputs
+runs/
+outputs/
+results/
+*.cache
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Large model/export files
+*.pt
+*.pth
+*.onnx
+*.engine
