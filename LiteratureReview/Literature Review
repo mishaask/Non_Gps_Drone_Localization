@@ -20,4 +20,5 @@ Literature Review: Visual Navigation for Drones in GNSS-Denied Conditions
 
     A foundational deep VPR method is NetVLAD, which introduced a CNN architecture with a trainable VLAD pooling layer for weakly supervised place recognition. 
     NetVLAD is older than the newest papers, but it remains important because many later retrieval systems build on the idea of aggregating local visual features into a compact global image descriptor. 
-    The original NetVLAD work targets large-scale place recognition, where a query photograph is compared against a database to identify its location. [source]([source](https://openaccess.thecvf.com/content_cvpr_2016/html/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.html))
+    The original NetVLAD work targets large-scale place recognition, where a query photograph is compared against a database to identify its location. 
+    Source: [NetVLAD paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.html)
