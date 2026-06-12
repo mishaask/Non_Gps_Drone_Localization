@@ -176,14 +176,12 @@ Source: my Final project revolves around yolo and sam
 ***Selected Direction and Integration in Our Pipeline***
 
     GNSS-tagged reference drone videos + SRT telemetry
-            ↓
+        ↓
     Extract reference frames and parse metadata
             ↓
     Build visual descriptor database using AnyLoc-GEM / DINOv2
             ↓
-    Take query frames from the test drone video
-            ↓
-    Treat query video GNSS as unavailable during prediction
+    Take query frames from video
             ↓
     Run multi-scale retrieval to find candidate reference frames
             ↓
@@ -191,10 +189,12 @@ Source: my Final project revolves around yolo and sam
             ↓
     Apply homography and inlier filtering
             ↓
-    Use the accepted matched reference frame to estimate the query center location
+    Accepted matches become trusted visual anchors / seed points
             ↓
-    Convert accepted matches into latitude/longitude predictions
+    For weak or failed query frames, run local/path-guided candidate search (try to match to geographically logical refrences, and if that fails fill its location based on previous and next succesfull anchor points)
+            ↓
+    Upgrade fallback rows only if candidates pass quality checks (if now htey pass, add them to our anchors)
+            ↓
+    Otherwise keep fallback/path-guided estimate
             ↓
     Export CSV and KML predicted path
-            ↓
-    Compare predicted path against the query video SRT/GNSS ground truth for evaluation
