@@ -1,0 +1,13 @@
+# Stage 5: Multi-scale retrieval + LightGlue verification.
+# Install after requirements.txt and requirements-stage3.txt:
+#   python -m pip install -r requirements-stage5.txt
+
+# LightGlue uses PyTorch and official CVG LightGlue code.
+torch>=2.2
+pillow>=10.0
+
+# Official LightGlue repository. Provides SuperPoint + LightGlue verifier.
+git+https://github.com/cvg/LightGlue.git
+
+# Keep YOLO dynamic-object masking available in the same environment.
+ultralytics>=8.3

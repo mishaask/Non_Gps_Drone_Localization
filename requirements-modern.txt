@@ -1,0 +1,17 @@
+# Optional heavy dependencies for the stronger research pipeline.
+# The baseline and unit tests do NOT require these.
+# Install after installing requirements.txt:
+#   pip install -r requirements-modern.txt
+
+# DINOv2 and AnyLoc-GEM descriptor backends use torch.hub to load facebookresearch/dinov2.
+torch>=2.2
+pillow>=10.0
+
+# Optional fast nearest-neighbor search if you later extend the NPZ index to FAISS.
+faiss-cpu>=1.8
+
+# LightGlue verifier. This is installed from the official repository.
+git+https://github.com/cvg/LightGlue.git
+
+# Optional YOLO segmentation/detection masking for dynamic objects such as cars/people.
+ultralytics>=8.3

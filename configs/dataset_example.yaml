@@ -1,0 +1,28 @@
+# Example dataset config. Update paths to match your local machine.
+# Important: test_srt is only for evaluation, not for prediction.
+
+reference_flights:
+  - flight_id: DJI_0006
+    video: data/raw/DJI_0006.mp4
+    srt: data/raw/DJI_0006.SRT
+  - flight_id: DJI_0007
+    video: data/raw/DJI_0007.mp4
+    srt: data/raw/DJI_0007.SRT
+  - flight_id: DJI_0008
+    video: data/raw/DJI_0008.mp4
+    srt: data/raw/DJI_0008.SRT
+  - flight_id: DJI_0009
+    video: data/raw/DJI_0009.mp4
+    srt: data/raw/DJI_0009.SRT
+
+test_flights:
+  - flight_id: DJI_0010
+    video: data/raw/DJI_0010.mp4
+    srt_for_evaluation_only: data/raw/DJI_0010.SRT
+
+camera:
+  image_width: 1920
+  image_height: 1080
+  # Placeholder. Later we will replace this with calibrated intrinsics or metadata.
+  horizontal_fov_deg: 84.0
+  camera_pitch_deg: 60.0

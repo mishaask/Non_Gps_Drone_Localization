@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gps-ex1-visual-navigation"
+version = "0.1.0"
+description = "Step-by-step GNSS-denied visual navigation baseline for Ex1"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+vision = [
+    "opencv-python>=4.8",
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+    "tqdm>=4.66",
+]
+
+test = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

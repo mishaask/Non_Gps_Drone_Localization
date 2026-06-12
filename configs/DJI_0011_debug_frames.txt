@@ -1,0 +1,24 @@
+# Manual debug/evaluation frames for DJI_0011.
+# Edit this file freely. One value per line, comma-separated values, or ranges are supported.
+# Examples supported by Stage 6:
+# 1800
+# 1800, 4200, 5400
+# 1800-2400:150
+
+# early difficult frames / sanity checks
+0
+150
+300
+450
+600
+
+# promising unique circular/curved building frames from our LightGlue debug
+1800
+1950
+2250
+3300
+4200
+4350
+5400
+7200
+7350

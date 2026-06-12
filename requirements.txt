@@ -1,0 +1,7 @@
+# Core step 1 uses only the Python standard library.
+# These packages are for the next steps: frame extraction, matching, plots.
+opencv-python>=4.8
+numpy>=1.24
+matplotlib>=3.7
+tqdm>=4.66
+pytest>=7.0

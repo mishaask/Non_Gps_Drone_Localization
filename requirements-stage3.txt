@@ -1,0 +1,5 @@
+# Minimal heavy dependencies for Stage 3 DINOv2 / AnyLoc-GEM retrieval.
+# Install after requirements.txt.
+torch>=2.2
+pillow>=10.0
+ultralytics>=8.3
