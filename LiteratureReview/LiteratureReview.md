@@ -50,6 +50,7 @@
   This makes the pipeline more efficient because LightGlue does not need to compare every query frame against every reference frame.
 
 **DINOv2 as the Visual Feature Backbone**
+
   A key reason AnyLoc is suitable for this project is its use of strong general-purpose visual features. DINOv2 is a self-supervised visual foundation model designed to produce robust visual features without manual labels.
   The DINOv2 paper argues that pretrained self-supervised models can produce all-purpose features that transfer across image distributions and tasks, especially when trained on large curated datasets. 
   Source: [DINOv2 Paper](https://arxiv.org/abs/2304.07193)
