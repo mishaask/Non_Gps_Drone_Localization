@@ -25,6 +25,7 @@ import math
 from pathlib import Path
 
 from gps_ex1.preprocess.reference_index import load_reference_index
+from gps_ex1.tools.stage7_temporal_consensus import row_confidence
 from gps_ex1.tools.stage10_cluster_lookpoint_refine import (
     ClusterResult,
     _accepted,
@@ -87,13 +88,16 @@ def _candidate_reason(row: dict[str, str]) -> str:
 # Our localize_video outputs commonly use names such as ``orb_good_matches``
 # and ``verification_inlier_ratio`` instead.  Missing those fields caused every
 # fallback candidate to look like good=0 / ratio=0 and be rejected as low quality.
+# Columns that genuinely contain a planner-scale confidence value (the same
+# scale produced by stage7_temporal_consensus.row_confidence, typically ~5-25
+# for good matches).  Similarity columns such as ``retrieval_similarity`` are
+# cosine similarities in [0, 1] and must NOT be compared against the
+# --min-candidate-confidence gate (5.0 by default): doing so silently rejected
+# every candidate as ``candidate_confidence_lt_5`` in Stage 10.5/10.5B.
 CONFIDENCE_FIELDS = (
     "confidence",
     "match_confidence",
-    "retrieval_similarity",
-    "descriptor_similarity",
-    "similarity",
-    "score",
+    "candidate_confidence",
 )
 INLIER_FIELDS = (
     "homography_inliers",
@@ -128,7 +132,13 @@ def _first_float_with_source(row: dict[str, str], fields: tuple[str, ...]) -> tu
 
 def _candidate_confidence_with_source(row: dict[str, str]) -> tuple[float, str]:
     parsed, source = _first_float_with_source(row, CONFIDENCE_FIELDS)
-    return (float(parsed), source) if parsed is not None else (0.0, "")
+    if parsed is not None:
+        return float(parsed), source
+    # localize_video CSVs have no explicit confidence column, so compute the
+    # same composite score that the Stage 10 planner / merge tools use.  This
+    # keeps the --min-candidate-confidence threshold on a single, consistent
+    # scale across the whole pipeline.
+    return float(row_confidence(row)), "computed_row_confidence"
 
 
 def _candidate_inliers_with_source(row: dict[str, str]) -> tuple[int, str]:

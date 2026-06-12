@@ -1,0 +1,6117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>DJI_0010 Stage 10.3 full all-frame numbered path</name>
+
+<Style id="numberedPoint">
+  <IconStyle>
+    <scale>0.8</scale>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon>
+  </IconStyle>
+  <LabelStyle><scale>0.9</scale></LabelStyle>
+</Style>
+<Style id="pathLine">
+  <LineStyle><color>ffffffff</color><width>3</width></LineStyle>
+</Style>
+
+<Placemark>
+<name>DJI_0010 Stage 10.3 full all-frame numbered path line</name>
+<styleUrl>#pathLine</styleUrl>
+<LineString><tessellate>1</tessellate><coordinates>
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20389685,32.10399478,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20440889,32.10490441,0
+35.20448539,32.1047321,0
+35.20448539,32.1047321,0
+35.20429447,32.10448542,0
+35.20419895,32.10436199,0
+35.20410342,32.10423857,0
+35.20400797,32.10411523,0
+35.20391251,32.10399189,0
+35.20381698,32.10386847,0
+35.20372146,32.10374504,0
+35.20361358,32.10340579,0
+35.20353054,32.10349836,0
+35.20361358,32.10340579,0
+35.20357365,32.10355678,0
+35.20359519,32.10358597,0
+35.20361673,32.10361516,0
+35.20363828,32.10364437,0
+35.20365984,32.10367358,0
+35.20368138,32.10370277,0
+35.20370292,32.10373196,0
+35.20372447,32.10376118,0
+35.20374603,32.10379039,0
+35.20376757,32.10381958,0
+35.20378911,32.10384877,0
+35.20381066,32.10387798,0
+35.20383222,32.10390719,0
+35.20385376,32.10393638,0
+35.20387531,32.10396559,0
+35.20389685,32.10399478,0
+35.20389685,32.10399478,0
+35.20389685,32.10399478,0
+35.2038824,32.10401226,0
+35.20386796,32.10402973,0
+35.20385352,32.1040472,0
+35.20383908,32.10406467,0
+35.20382463,32.10408215,0
+35.20381019,32.10409962,0
+35.20379574,32.10411709,0
+35.20378131,32.10413456,0
+35.20376686,32.10415204,0
+35.20375242,32.10416951,0
+35.20373797,32.10418699,0
+35.20275048,32.10506664,0
+35.20370909,32.10422193,0
+35.20369465,32.1042394,0
+35.2036802,32.10425688,0
+35.20366576,32.10427434,0
+35.20365131,32.10429182,0
+35.20363688,32.10430929,0
+35.20362243,32.10432677,0
+35.20360799,32.10434423,0
+35.20359354,32.10436171,0
+35.20357911,32.10437918,0
+35.20356466,32.10439666,0
+35.20355022,32.10441412,0
+35.20353577,32.1044316,0
+35.20352133,32.10444907,0
+35.20350689,32.10446655,0
+35.20349245,32.10448401,0
+35.203478,32.10450149,0
+35.20346356,32.10451896,0
+35.20344911,32.10453644,0
+35.20343468,32.10455391,0
+35.20342023,32.10457138,0
+35.20340579,32.10458885,0
+35.20339134,32.10460633,0
+35.2033769,32.1046238,0
+35.20336246,32.10464127,0
+35.20334802,32.10465874,0
+35.20333357,32.10467622,0
+35.20322231,32.10475553,0
+35.20337746,32.10468553,0
+35.2033994,32.10469019,0
+35.20342135,32.10469485,0
+35.20344329,32.1046995,0
+35.20346524,32.10470416,0
+35.20348718,32.10470882,0
+35.20350912,32.10471347,0
+35.20353107,32.10471813,0
+35.20276147,32.10523673,0
+35.20357496,32.10472745,0
+35.20279876,32.10538383,0
+35.20361885,32.10473676,0
+35.20364081,32.10474142,0
+35.20366274,32.10474607,0
+35.20368468,32.10475073,0
+35.20370664,32.10475539,0
+35.20372859,32.10476005,0
+35.20375053,32.1047647,0
+35.20377248,32.10476936,0
+35.20379442,32.10477401,0
+35.20381637,32.10477867,0
+35.20383831,32.10478333,0
+35.20386025,32.10478798,0
+35.2038822,32.10479264,0
+35.20390415,32.1047973,0
+35.20392609,32.10480196,0
+35.20394804,32.10480662,0
+35.20396998,32.10481127,0
+35.20399193,32.10481593,0
+35.20401387,32.10482058,0
+35.20403581,32.10482524,0
+35.20405776,32.1048299,0
+35.20407972,32.10483456,0
+35.20410165,32.10483921,0
+35.20412361,32.10484387,0
+35.20414554,32.10484853,0
+35.2041675,32.10485318,0
+35.20418944,32.10485784,0
+35.20421137,32.1048625,0
+35.20423333,32.10486715,0
+35.20425528,32.10487181,0
+35.20427722,32.10487647,0
+35.20429917,32.10488113,0
+35.20432111,32.10488578,0
+35.20389685,32.10399478,0
+35.204365,32.1048951,0
+35.20438694,32.10489975,0
+35.20440889,32.10490441,0
+35.20439849,32.10490675,0
+35.20438809,32.1049091,0
+35.20437769,32.10491144,0
+35.20436729,32.10491379,0
+35.20435689,32.10491613,0
+35.20434649,32.10491847,0
+35.20433609,32.10492082,0
+35.20432569,32.10492316,0
+35.20431529,32.10492551,0
+35.20430489,32.10492785,0
+35.20429449,32.1049302,0
+35.20428409,32.10493254,0
+35.20427369,32.10493488,0
+35.20426329,32.10493723,0
+35.20425289,32.10493957,0
+35.20424249,32.10494192,0
+35.20423209,32.10494426,0
+35.20422169,32.1049466,0
+35.20421129,32.10494895,0
+35.20420089,32.10495129,0
+35.20419049,32.10495364,0
+35.20418009,32.10495598,0
+35.20416969,32.10495833,0
+35.20415929,32.10496067,0
+35.20414889,32.10496301,0
+35.20413849,32.10496536,0
+35.20412809,32.1049677,0
+35.20411769,32.10497005,0
+35.20410729,32.10497239,0
+35.20409689,32.10497473,0
+35.2040865,32.10497708,0
+35.20407609,32.10497942,0
+35.2040657,32.10498177,0
+35.20405529,32.10498411,0
+35.20404489,32.10498646,0
+35.20403449,32.1049888,0
+35.20402409,32.10499114,0
+35.20401369,32.10499349,0
+35.2040033,32.10499583,0
+35.20399289,32.10499818,0
+35.2039825,32.10500052,0
+35.20448539,32.1047321,0
+35.20396169,32.10500521,0
+35.2031089,32.10519743,0
+35.20394089,32.1050099,0
+35.20393049,32.10501224,0
+35.2039201,32.10501459,0
+35.20390969,32.10501693,0
+35.2038993,32.10501927,0
+35.20388889,32.10502162,0
+35.20387849,32.10502396,0
+35.20386809,32.10502631,0
+35.20385769,32.10502865,0
+35.20384729,32.10503099,0
+35.2038369,32.10503334,0
+35.20382649,32.10503568,0
+35.2038161,32.10503803,0
+35.20380569,32.10504037,0
+35.20379529,32.10504272,0
+35.20378489,32.10504506,0
+35.20377449,32.1050474,0
+35.20376409,32.10504975,0
+35.2037537,32.10505209,0
+35.20374329,32.10505444,0
+35.2037329,32.10505678,0
+35.20372249,32.10505912,0
+35.20371209,32.10506147,0
+35.20370169,32.10506381,0
+35.20369129,32.10506616,0
+35.20368089,32.1050685,0
+35.2036705,32.10507085,0
+35.20366009,32.10507319,0
+35.2036497,32.10507553,0
+35.20363929,32.10507788,0
+35.20362889,32.10508022,0
+35.20361849,32.10508257,0
+35.20360809,32.10508491,0
+35.20359769,32.10508725,0
+35.2035873,32.1050896,0
+35.20357689,32.10509194,0
+35.2035665,32.10509429,0
+35.20355609,32.10509663,0
+35.20354569,32.10509898,0
+35.20353529,32.10510132,0
+35.20352489,32.10510366,0
+35.20351449,32.10510601,0
+35.2035041,32.10510835,0
+35.20349369,32.1051107,0
+35.2034833,32.10511304,0
+35.20347289,32.10511538,0
+35.20346249,32.10511773,0
+35.20345209,32.10512007,0
+35.20344169,32.10512242,0
+35.20343129,32.10512476,0
+35.2034209,32.10512711,0
+35.2034105,32.10512945,0
+35.2034001,32.10513179,0
+35.2033897,32.10513414,0
+35.20337929,32.10513648,0
+35.2033689,32.10513883,0
+35.20335849,32.10514117,0
+35.2033481,32.10514351,0
+35.2033377,32.10514586,0
+35.2033273,32.1051482,0
+35.2033169,32.10515055,0
+35.2033065,32.10515289,0
+35.20329609,32.10515524,0
+35.2032857,32.10515758,0
+35.20327529,32.10515992,0
+35.2032649,32.10516227,0
+35.2032545,32.10516461,0
+35.2032441,32.10516696,0
+35.2032337,32.1051693,0
+35.2032233,32.10517164,0
+35.20321289,32.10517399,0
+35.2032025,32.10517633,0
+35.20319209,32.10517868,0
+35.2031817,32.10518102,0
+35.2031713,32.10518337,0
+35.2031609,32.10518571,0
+35.2031505,32.10518805,0
+35.2031401,32.1051904,0
+35.20312969,32.10519274,0
+35.2031193,32.10519509,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.20306231,32.10499654,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+35.2031089,32.10519743,0
+</coordinates></LineString>
+</Placemark>
+<Placemark>
+<name>001 | frame 0</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 1
+Frame: 0
+Time: 0.000
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>002 | frame 45</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 2
+Frame: 45
+Time: 1.502
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>003 | frame 90</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 3
+Frame: 90
+Time: 3.003
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>004 | frame 135</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 4
+Frame: 135
+Time: 4.505
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>005 | frame 180</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 5
+Frame: 180
+Time: 6.006
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>006 | frame 225</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 6
+Frame: 225
+Time: 7.508
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>007 | frame 270</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 7
+Frame: 270
+Time: 9.009
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>008 | frame 315</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 8
+Frame: 315
+Time: 10.511
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>009 | frame 360</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 9
+Frame: 360
+Time: 12.012
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>010 | frame 405</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 10
+Frame: 405
+Time: 13.514
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>011 | frame 450</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 11
+Frame: 450
+Time: 15.015
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>012 | frame 495</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 12
+Frame: 495
+Time: 16.517
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>013 | frame 540</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 13
+Frame: 540
+Time: 18.018
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>014 | frame 585</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 14
+Frame: 585
+Time: 19.520
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>015 | frame 630</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 15
+Frame: 630
+Time: 21.021
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>016 | frame 675</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 16
+Frame: 675
+Time: 22.523
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>017 | frame 720</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 17
+Frame: 720
+Time: 24.024
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>018 | frame 765</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 18
+Frame: 765
+Time: 25.526
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>019 | frame 810</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 19
+Frame: 810
+Time: 27.027
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>020 | frame 855</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 20
+Frame: 855
+Time: 28.529
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>021 | frame 900</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 21
+Frame: 900
+Time: 30.030
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>022 | frame 945</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 22
+Frame: 945
+Time: 31.532
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>023 | frame 990</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 23
+Frame: 990
+Time: 33.033
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>024 | frame 1035</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 24
+Frame: 1035
+Time: 34.535
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>025 | frame 1080</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 25
+Frame: 1080
+Time: 36.036
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>026 | frame 1125</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 26
+Frame: 1125
+Time: 37.538
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>027 | frame 1170</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 27
+Frame: 1170
+Time: 39.039
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>028 | frame 1215</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 28
+Frame: 1215
+Time: 40.541
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>029 | frame 1260</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 29
+Frame: 1260
+Time: 42.042
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>030 | frame 1305</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 30
+Frame: 1305
+Time: 43.544
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>031 | frame 1350</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 31
+Frame: 1350
+Time: 45.045
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>032 | frame 1395</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 32
+Frame: 1395
+Time: 46.547
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>033 | frame 1440</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 33
+Frame: 1440
+Time: 48.048
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>034 | frame 1485</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 34
+Frame: 1485
+Time: 49.550
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>035 | frame 1530</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 35
+Frame: 1530
+Time: 51.051
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>036 | frame 1575</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 36
+Frame: 1575
+Time: 52.553
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>037 | frame 1620</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 37
+Frame: 1620
+Time: 54.054
+Reason: accepted
+Lat/Lon: 32.10399478, 35.20389685</description>
+<Point><coordinates>35.20389685,32.10399478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>038 | frame 1665</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 38
+Frame: 1665
+Time: 55.556
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>039 | frame 1710</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 39
+Frame: 1710
+Time: 57.057
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>040 | frame 1755</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 40
+Frame: 1755
+Time: 58.559
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>041 | frame 1800</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 41
+Frame: 1800
+Time: 60.060
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>042 | frame 1845</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 42
+Frame: 1845
+Time: 61.562
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>043 | frame 1890</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 43
+Frame: 1890
+Time: 63.063
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>044 | frame 1935</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 44
+Frame: 1935
+Time: 64.564
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>045 | frame 1980</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 45
+Frame: 1980
+Time: 66.066
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>046 | frame 2025</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 46
+Frame: 2025
+Time: 67.567
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>047 | frame 2070</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 47
+Frame: 2070
+Time: 69.069
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>048 | frame 2115</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 48
+Frame: 2115
+Time: 70.570
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>049 | frame 2160</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 49
+Frame: 2160
+Time: 72.072
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>050 | frame 2205</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 50
+Frame: 2205
+Time: 73.573
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>051 | frame 2250</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 51
+Frame: 2250
+Time: 75.075
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>052 | frame 2295</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 52
+Frame: 2295
+Time: 76.576
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>053 | frame 2340</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 53
+Frame: 2340
+Time: 78.078
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>054 | frame 2385</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 54
+Frame: 2385
+Time: 79.579
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>055 | frame 2430</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 55
+Frame: 2430
+Time: 81.081
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>056 | frame 2475</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 56
+Frame: 2475
+Time: 82.582
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>057 | frame 2520</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 57
+Frame: 2520
+Time: 84.084
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>058 | frame 2565</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 58
+Frame: 2565
+Time: 85.585
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>059 | frame 2610</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 59
+Frame: 2610
+Time: 87.087
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>060 | frame 2655</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 60
+Frame: 2655
+Time: 88.588
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>061 | frame 2700</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 61
+Frame: 2700
+Time: 90.090
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>062 | frame 2745</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 62
+Frame: 2745
+Time: 91.591
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>063 | frame 2790</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 63
+Frame: 2790
+Time: 93.093
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>064 | frame 2835</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 64
+Frame: 2835
+Time: 94.594
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>065 | frame 2880</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 65
+Frame: 2880
+Time: 96.096
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>066 | frame 2925</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 66
+Frame: 2925
+Time: 97.597
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>067 | frame 2970</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 67
+Frame: 2970
+Time: 99.099
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>068 | frame 3015</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 68
+Frame: 3015
+Time: 100.600
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>069 | frame 3060</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 69
+Frame: 3060
+Time: 102.102
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>070 | frame 3105</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 70
+Frame: 3105
+Time: 103.603
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>071 | frame 3150</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 71
+Frame: 3150
+Time: 105.105
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>072 | frame 3195</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 72
+Frame: 3195
+Time: 106.606
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>073 | frame 3240</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 73
+Frame: 3240
+Time: 108.108
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>074 | frame 3285</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 74
+Frame: 3285
+Time: 109.609
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>075 | frame 3330</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 75
+Frame: 3330
+Time: 111.111
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>076 | frame 3375</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 76
+Frame: 3375
+Time: 112.612
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>077 | frame 3420</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 77
+Frame: 3420
+Time: 114.114
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>078 | frame 3465</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 78
+Frame: 3465
+Time: 115.615
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>079 | frame 3510</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 79
+Frame: 3510
+Time: 117.117
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>080 | frame 3555</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 80
+Frame: 3555
+Time: 118.618
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>081 | frame 3600</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 81
+Frame: 3600
+Time: 120.120
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>082 | frame 3645</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 82
+Frame: 3645
+Time: 121.621
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>083 | frame 3690</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 83
+Frame: 3690
+Time: 123.123
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>084 | frame 3735</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 84
+Frame: 3735
+Time: 124.624
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>085 | frame 3780</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 85
+Frame: 3780
+Time: 126.126
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>086 | frame 3825</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 86
+Frame: 3825
+Time: 127.627
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>087 | frame 3870</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 87
+Frame: 3870
+Time: 129.129
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>088 | frame 3915</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 88
+Frame: 3915
+Time: 130.631
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>089 | frame 3960</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 89
+Frame: 3960
+Time: 132.132
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>090 | frame 4005</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 90
+Frame: 4005
+Time: 133.633
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>091 | frame 4050</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 91
+Frame: 4050
+Time: 135.135
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>092 | frame 4095</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 92
+Frame: 4095
+Time: 136.637
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>093 | frame 4140</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 93
+Frame: 4140
+Time: 138.138
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>094 | frame 4185</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 94
+Frame: 4185
+Time: 139.639
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>095 | frame 4230</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 95
+Frame: 4230
+Time: 141.141
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>096 | frame 4275</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 96
+Frame: 4275
+Time: 142.643
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>097 | frame 4320</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 97
+Frame: 4320
+Time: 144.144
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>098 | frame 4365</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 98
+Frame: 4365
+Time: 145.645
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>099 | frame 4410</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 99
+Frame: 4410
+Time: 147.147
+Reason: accepted
+Lat/Lon: 32.10490441, 35.20440889</description>
+<Point><coordinates>35.20440889,32.10490441,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>100 | frame 4455</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 100
+Frame: 4455
+Time: 148.649
+Reason: accepted
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>101 | frame 4500</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 101
+Frame: 4500
+Time: 150.150
+Reason: accepted
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>102 | frame 4545</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 102
+Frame: 4545
+Time: 151.651
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10448542, 35.20429447</description>
+<Point><coordinates>35.20429447,32.10448542,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>103 | frame 4590</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 103
+Frame: 4590
+Time: 153.153
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10436199, 35.20419895</description>
+<Point><coordinates>35.20419895,32.10436199,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>104 | frame 4635</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 104
+Frame: 4635
+Time: 154.655
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10423857, 35.20410342</description>
+<Point><coordinates>35.20410342,32.10423857,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>105 | frame 4680</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 105
+Frame: 4680
+Time: 156.156
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10411523, 35.20400797</description>
+<Point><coordinates>35.20400797,32.10411523,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>106 | frame 4725</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 106
+Frame: 4725
+Time: 157.657
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10399189, 35.20391251</description>
+<Point><coordinates>35.20391251,32.10399189,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>107 | frame 4770</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 107
+Frame: 4770
+Time: 159.159
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10386847, 35.20381698</description>
+<Point><coordinates>35.20381698,32.10386847,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>108 | frame 4815</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 108
+Frame: 4815
+Time: 160.661
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10374504, 35.20372146</description>
+<Point><coordinates>35.20372146,32.10374504,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>109 | frame 4860</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 109
+Frame: 4860
+Time: 162.162
+Reason: accepted
+Lat/Lon: 32.10340579, 35.20361358</description>
+<Point><coordinates>35.20361358,32.10340579,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>110 | frame 4905</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 110
+Frame: 4905
+Time: 163.663
+Reason: accepted
+Lat/Lon: 32.10349836, 35.20353054</description>
+<Point><coordinates>35.20353054,32.10349836,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>111 | frame 4950</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 111
+Frame: 4950
+Time: 165.165
+Reason: accepted
+Lat/Lon: 32.10340579, 35.20361358</description>
+<Point><coordinates>35.20361358,32.10340579,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>112 | frame 4995</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 112
+Frame: 4995
+Time: 166.667
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10355678, 35.20357365</description>
+<Point><coordinates>35.20357365,32.10355678,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>113 | frame 5040</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 113
+Frame: 5040
+Time: 168.168
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10358597, 35.20359519</description>
+<Point><coordinates>35.20359519,32.10358597,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>114 | frame 5085</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 114
+Frame: 5085
+Time: 169.669
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10361516, 35.20361673</description>
+<Point><coordinates>35.20361673,32.10361516,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>115 | frame 5130</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 115
+Frame: 5130
+Time: 171.171
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10364437, 35.20363828</description>
+<Point><coordinates>35.20363828,32.10364437,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>116 | frame 5175</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 116
+Frame: 5175
+Time: 172.673
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10367358, 35.20365984</description>
+<Point><coordinates>35.20365984,32.10367358,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>117 | frame 5220</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 117
+Frame: 5220
+Time: 174.174
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10370277, 35.20368138</description>
+<Point><coordinates>35.20368138,32.10370277,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>118 | frame 5265</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 118
+Frame: 5265
+Time: 175.675
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10373196, 35.20370292</description>
+<Point><coordinates>35.20370292,32.10373196,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>119 | frame 5310</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 119
+Frame: 5310
+Time: 177.177
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10376118, 35.20372447</description>
+<Point><coordinates>35.20372447,32.10376118,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>120 | frame 5355</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 120
+Frame: 5355
+Time: 178.679
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10379039, 35.20374603</description>
+<Point><coordinates>35.20374603,32.10379039,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>121 | frame 5400</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 121
+Frame: 5400
+Time: 180.180
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10381958, 35.20376757</description>
+<Point><coordinates>35.20376757,32.10381958,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>122 | frame 5445</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 122
+Frame: 5445
+Time: 181.681
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10384877, 35.20378911</description>
+<Point><coordinates>35.20378911,32.10384877,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>123 | frame 5490</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 123
+Frame: 5490
+Time: 183.183
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10387798, 35.20381066</description>
+<Point><coordinates>35.20381066,32.10387798,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>124 | frame 5535</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 124
+Frame: 5535
+Time: 184.685
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10390719, 35.20383222</description>
+<Point><coordinates>35.20383222,32.10390719,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>125 | frame 5580</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 125
+Frame: 5580
+Time: 186.186
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10393638, 35.20385376</description>
+<Point><coordinates>35.20385376,32.10393638,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>126 | frame 5625</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 126
+Frame: 5625
+Time: 187.688
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10396559, 35.20387531</description>
+<Point><coordinates>35.20387531,32.10396559,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>127 | frame 5670</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 127
+Frame: 5670
+Time: 189.189
+Reason: accepted
+Lat/Lon: 32.10399478, 35.20389685</description>
+<Point><coordinates>35.20389685,32.10399478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>128 | frame 5715</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 128
+Frame: 5715
+Time: 190.691
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10399478, 35.20389685</description>
+<Point><coordinates>35.20389685,32.10399478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>129 | frame 5760</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 129
+Frame: 5760
+Time: 192.192
+Reason: accepted
+Lat/Lon: 32.10399478, 35.20389685</description>
+<Point><coordinates>35.20389685,32.10399478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>130 | frame 5805</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 130
+Frame: 5805
+Time: 193.694
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10401226, 35.20388240</description>
+<Point><coordinates>35.2038824,32.10401226,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>131 | frame 5850</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 131
+Frame: 5850
+Time: 195.195
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10402973, 35.20386796</description>
+<Point><coordinates>35.20386796,32.10402973,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>132 | frame 5895</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 132
+Frame: 5895
+Time: 196.697
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10404720, 35.20385352</description>
+<Point><coordinates>35.20385352,32.1040472,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>133 | frame 5940</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 133
+Frame: 5940
+Time: 198.198
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10406467, 35.20383908</description>
+<Point><coordinates>35.20383908,32.10406467,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>134 | frame 5985</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 134
+Frame: 5985
+Time: 199.700
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10408215, 35.20382463</description>
+<Point><coordinates>35.20382463,32.10408215,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>135 | frame 6030</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 135
+Frame: 6030
+Time: 201.201
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10409962, 35.20381019</description>
+<Point><coordinates>35.20381019,32.10409962,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>136 | frame 6075</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 136
+Frame: 6075
+Time: 202.703
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10411709, 35.20379574</description>
+<Point><coordinates>35.20379574,32.10411709,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>137 | frame 6120</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 137
+Frame: 6120
+Time: 204.204
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10413456, 35.20378131</description>
+<Point><coordinates>35.20378131,32.10413456,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>138 | frame 6165</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 138
+Frame: 6165
+Time: 205.706
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10415204, 35.20376686</description>
+<Point><coordinates>35.20376686,32.10415204,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>139 | frame 6210</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 139
+Frame: 6210
+Time: 207.207
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10416951, 35.20375242</description>
+<Point><coordinates>35.20375242,32.10416951,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>140 | frame 6255</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 140
+Frame: 6255
+Time: 208.709
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10418699, 35.20373797</description>
+<Point><coordinates>35.20373797,32.10418699,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>141 | frame 6300</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 141
+Frame: 6300
+Time: 210.210
+Reason: accepted
+Lat/Lon: 32.10506664, 35.20275048</description>
+<Point><coordinates>35.20275048,32.10506664,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>142 | frame 6345</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 142
+Frame: 6345
+Time: 211.712
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10422193, 35.20370909</description>
+<Point><coordinates>35.20370909,32.10422193,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>143 | frame 6390</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 143
+Frame: 6390
+Time: 213.213
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10423940, 35.20369465</description>
+<Point><coordinates>35.20369465,32.1042394,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>144 | frame 6435</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 144
+Frame: 6435
+Time: 214.715
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10425688, 35.20368020</description>
+<Point><coordinates>35.2036802,32.10425688,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>145 | frame 6480</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 145
+Frame: 6480
+Time: 216.216
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10427434, 35.20366576</description>
+<Point><coordinates>35.20366576,32.10427434,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>146 | frame 6525</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 146
+Frame: 6525
+Time: 217.718
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10429182, 35.20365131</description>
+<Point><coordinates>35.20365131,32.10429182,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>147 | frame 6570</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 147
+Frame: 6570
+Time: 219.219
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10430929, 35.20363688</description>
+<Point><coordinates>35.20363688,32.10430929,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>148 | frame 6615</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 148
+Frame: 6615
+Time: 220.721
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10432677, 35.20362243</description>
+<Point><coordinates>35.20362243,32.10432677,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>149 | frame 6660</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 149
+Frame: 6660
+Time: 222.222
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10434423, 35.20360799</description>
+<Point><coordinates>35.20360799,32.10434423,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>150 | frame 6705</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 150
+Frame: 6705
+Time: 223.724
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10436171, 35.20359354</description>
+<Point><coordinates>35.20359354,32.10436171,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>151 | frame 6750</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 151
+Frame: 6750
+Time: 225.225
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10437918, 35.20357911</description>
+<Point><coordinates>35.20357911,32.10437918,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>152 | frame 6795</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 152
+Frame: 6795
+Time: 226.727
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10439666, 35.20356466</description>
+<Point><coordinates>35.20356466,32.10439666,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>153 | frame 6840</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 153
+Frame: 6840
+Time: 228.228
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10441412, 35.20355022</description>
+<Point><coordinates>35.20355022,32.10441412,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>154 | frame 6885</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 154
+Frame: 6885
+Time: 229.730
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10443160, 35.20353577</description>
+<Point><coordinates>35.20353577,32.1044316,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>155 | frame 6930</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 155
+Frame: 6930
+Time: 231.231
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10444907, 35.20352133</description>
+<Point><coordinates>35.20352133,32.10444907,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>156 | frame 6975</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 156
+Frame: 6975
+Time: 232.733
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10446655, 35.20350689</description>
+<Point><coordinates>35.20350689,32.10446655,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>157 | frame 7020</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 157
+Frame: 7020
+Time: 234.234
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10448401, 35.20349245</description>
+<Point><coordinates>35.20349245,32.10448401,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>158 | frame 7065</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 158
+Frame: 7065
+Time: 235.736
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10450149, 35.20347800</description>
+<Point><coordinates>35.203478,32.10450149,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>159 | frame 7110</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 159
+Frame: 7110
+Time: 237.237
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10451896, 35.20346356</description>
+<Point><coordinates>35.20346356,32.10451896,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>160 | frame 7155</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 160
+Frame: 7155
+Time: 238.739
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10453644, 35.20344911</description>
+<Point><coordinates>35.20344911,32.10453644,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>161 | frame 7200</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 161
+Frame: 7200
+Time: 240.240
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10455391, 35.20343468</description>
+<Point><coordinates>35.20343468,32.10455391,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>162 | frame 7245</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 162
+Frame: 7245
+Time: 241.742
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10457138, 35.20342023</description>
+<Point><coordinates>35.20342023,32.10457138,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>163 | frame 7290</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 163
+Frame: 7290
+Time: 243.243
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10458885, 35.20340579</description>
+<Point><coordinates>35.20340579,32.10458885,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>164 | frame 7335</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 164
+Frame: 7335
+Time: 244.745
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10460633, 35.20339134</description>
+<Point><coordinates>35.20339134,32.10460633,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>165 | frame 7380</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 165
+Frame: 7380
+Time: 246.246
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10462380, 35.20337690</description>
+<Point><coordinates>35.2033769,32.1046238,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>166 | frame 7425</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 166
+Frame: 7425
+Time: 247.748
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10464127, 35.20336246</description>
+<Point><coordinates>35.20336246,32.10464127,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>167 | frame 7470</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 167
+Frame: 7470
+Time: 249.249
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10465874, 35.20334802</description>
+<Point><coordinates>35.20334802,32.10465874,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>168 | frame 7515</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 168
+Frame: 7515
+Time: 250.751
+Reason: accepted
+Lat/Lon: 32.10467622, 35.20333357</description>
+<Point><coordinates>35.20333357,32.10467622,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>169 | frame 7560</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 169
+Frame: 7560
+Time: 252.252
+Reason: accepted
+Lat/Lon: 32.10475553, 35.20322231</description>
+<Point><coordinates>35.20322231,32.10475553,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>170 | frame 7605</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 170
+Frame: 7605
+Time: 253.754
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10468553, 35.20337746</description>
+<Point><coordinates>35.20337746,32.10468553,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>171 | frame 7650</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 171
+Frame: 7650
+Time: 255.255
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10469019, 35.20339940</description>
+<Point><coordinates>35.2033994,32.10469019,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>172 | frame 7695</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 172
+Frame: 7695
+Time: 256.757
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10469485, 35.20342135</description>
+<Point><coordinates>35.20342135,32.10469485,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>173 | frame 7740</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 173
+Frame: 7740
+Time: 258.258
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10469950, 35.20344329</description>
+<Point><coordinates>35.20344329,32.1046995,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>174 | frame 7785</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 174
+Frame: 7785
+Time: 259.760
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10470416, 35.20346524</description>
+<Point><coordinates>35.20346524,32.10470416,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>175 | frame 7830</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 175
+Frame: 7830
+Time: 261.261
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10470882, 35.20348718</description>
+<Point><coordinates>35.20348718,32.10470882,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>176 | frame 7875</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 176
+Frame: 7875
+Time: 262.762
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10471347, 35.20350912</description>
+<Point><coordinates>35.20350912,32.10471347,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>177 | frame 7920</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 177
+Frame: 7920
+Time: 264.264
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10471813, 35.20353107</description>
+<Point><coordinates>35.20353107,32.10471813,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>178 | frame 7965</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 178
+Frame: 7965
+Time: 265.766
+Reason: accepted
+Lat/Lon: 32.10523673, 35.20276147</description>
+<Point><coordinates>35.20276147,32.10523673,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>179 | frame 8010</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 179
+Frame: 8010
+Time: 267.267
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10472745, 35.20357496</description>
+<Point><coordinates>35.20357496,32.10472745,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>180 | frame 8055</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 180
+Frame: 8055
+Time: 268.769
+Reason: accepted
+Lat/Lon: 32.10538383, 35.20279876</description>
+<Point><coordinates>35.20279876,32.10538383,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>181 | frame 8100</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 181
+Frame: 8100
+Time: 270.270
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10473676, 35.20361885</description>
+<Point><coordinates>35.20361885,32.10473676,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>182 | frame 8145</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 182
+Frame: 8145
+Time: 271.772
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10474142, 35.20364081</description>
+<Point><coordinates>35.20364081,32.10474142,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>183 | frame 8190</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 183
+Frame: 8190
+Time: 273.273
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10474607, 35.20366274</description>
+<Point><coordinates>35.20366274,32.10474607,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>184 | frame 8235</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 184
+Frame: 8235
+Time: 274.774
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10475073, 35.20368468</description>
+<Point><coordinates>35.20368468,32.10475073,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>185 | frame 8280</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 185
+Frame: 8280
+Time: 276.276
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10475539, 35.20370664</description>
+<Point><coordinates>35.20370664,32.10475539,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>186 | frame 8325</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 186
+Frame: 8325
+Time: 277.778
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10476005, 35.20372859</description>
+<Point><coordinates>35.20372859,32.10476005,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>187 | frame 8370</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 187
+Frame: 8370
+Time: 279.279
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10476470, 35.20375053</description>
+<Point><coordinates>35.20375053,32.1047647,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>188 | frame 8415</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 188
+Frame: 8415
+Time: 280.781
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10476936, 35.20377248</description>
+<Point><coordinates>35.20377248,32.10476936,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>189 | frame 8460</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 189
+Frame: 8460
+Time: 282.282
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10477401, 35.20379442</description>
+<Point><coordinates>35.20379442,32.10477401,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>190 | frame 8505</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 190
+Frame: 8505
+Time: 283.784
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10477867, 35.20381637</description>
+<Point><coordinates>35.20381637,32.10477867,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>191 | frame 8550</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 191
+Frame: 8550
+Time: 285.285
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10478333, 35.20383831</description>
+<Point><coordinates>35.20383831,32.10478333,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>192 | frame 8595</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 192
+Frame: 8595
+Time: 286.786
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10478798, 35.20386025</description>
+<Point><coordinates>35.20386025,32.10478798,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>193 | frame 8640</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 193
+Frame: 8640
+Time: 288.288
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10479264, 35.20388220</description>
+<Point><coordinates>35.2038822,32.10479264,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>194 | frame 8685</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 194
+Frame: 8685
+Time: 289.790
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10479730, 35.20390415</description>
+<Point><coordinates>35.20390415,32.1047973,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>195 | frame 8730</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 195
+Frame: 8730
+Time: 291.291
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10480196, 35.20392609</description>
+<Point><coordinates>35.20392609,32.10480196,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>196 | frame 8775</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 196
+Frame: 8775
+Time: 292.793
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10480662, 35.20394804</description>
+<Point><coordinates>35.20394804,32.10480662,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>197 | frame 8820</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 197
+Frame: 8820
+Time: 294.294
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10481127, 35.20396998</description>
+<Point><coordinates>35.20396998,32.10481127,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>198 | frame 8865</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 198
+Frame: 8865
+Time: 295.796
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10481593, 35.20399193</description>
+<Point><coordinates>35.20399193,32.10481593,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>199 | frame 8910</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 199
+Frame: 8910
+Time: 297.297
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10482058, 35.20401387</description>
+<Point><coordinates>35.20401387,32.10482058,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>200 | frame 8955</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 200
+Frame: 8955
+Time: 298.798
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10482524, 35.20403581</description>
+<Point><coordinates>35.20403581,32.10482524,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>201 | frame 9000</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 201
+Frame: 9000
+Time: 300.300
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10482990, 35.20405776</description>
+<Point><coordinates>35.20405776,32.1048299,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>202 | frame 9045</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 202
+Frame: 9045
+Time: 301.802
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10483456, 35.20407972</description>
+<Point><coordinates>35.20407972,32.10483456,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>203 | frame 9090</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 203
+Frame: 9090
+Time: 303.303
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10483921, 35.20410165</description>
+<Point><coordinates>35.20410165,32.10483921,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>204 | frame 9135</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 204
+Frame: 9135
+Time: 304.805
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10484387, 35.20412361</description>
+<Point><coordinates>35.20412361,32.10484387,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>205 | frame 9180</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 205
+Frame: 9180
+Time: 306.306
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10484853, 35.20414554</description>
+<Point><coordinates>35.20414554,32.10484853,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>206 | frame 9225</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 206
+Frame: 9225
+Time: 307.808
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10485318, 35.20416750</description>
+<Point><coordinates>35.2041675,32.10485318,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>207 | frame 9270</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 207
+Frame: 9270
+Time: 309.309
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10485784, 35.20418944</description>
+<Point><coordinates>35.20418944,32.10485784,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>208 | frame 9315</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 208
+Frame: 9315
+Time: 310.810
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10486250, 35.20421137</description>
+<Point><coordinates>35.20421137,32.1048625,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>209 | frame 9360</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 209
+Frame: 9360
+Time: 312.312
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10486715, 35.20423333</description>
+<Point><coordinates>35.20423333,32.10486715,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>210 | frame 9405</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 210
+Frame: 9405
+Time: 313.814
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10487181, 35.20425528</description>
+<Point><coordinates>35.20425528,32.10487181,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>211 | frame 9450</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 211
+Frame: 9450
+Time: 315.315
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10487647, 35.20427722</description>
+<Point><coordinates>35.20427722,32.10487647,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>212 | frame 9495</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 212
+Frame: 9495
+Time: 316.817
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10488113, 35.20429917</description>
+<Point><coordinates>35.20429917,32.10488113,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>213 | frame 9540</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 213
+Frame: 9540
+Time: 318.318
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10488578, 35.20432111</description>
+<Point><coordinates>35.20432111,32.10488578,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>214 | frame 9585</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 214
+Frame: 9585
+Time: 319.820
+Reason: accepted
+Lat/Lon: 32.10399478, 35.20389685</description>
+<Point><coordinates>35.20389685,32.10399478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>215 | frame 9630</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 215
+Frame: 9630
+Time: 321.321
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10489510, 35.20436500</description>
+<Point><coordinates>35.204365,32.1048951,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>216 | frame 9675</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 216
+Frame: 9675
+Time: 322.822
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10489975, 35.20438694</description>
+<Point><coordinates>35.20438694,32.10489975,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>217 | frame 9720</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 217
+Frame: 9720
+Time: 324.324
+Reason: accepted
+Lat/Lon: 32.10490441, 35.20440889</description>
+<Point><coordinates>35.20440889,32.10490441,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>218 | frame 9765</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 218
+Frame: 9765
+Time: 325.826
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10490675, 35.20439849</description>
+<Point><coordinates>35.20439849,32.10490675,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>219 | frame 9810</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 219
+Frame: 9810
+Time: 327.327
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10490910, 35.20438809</description>
+<Point><coordinates>35.20438809,32.1049091,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>220 | frame 9855</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 220
+Frame: 9855
+Time: 328.829
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10491144, 35.20437769</description>
+<Point><coordinates>35.20437769,32.10491144,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>221 | frame 9900</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 221
+Frame: 9900
+Time: 330.330
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10491379, 35.20436729</description>
+<Point><coordinates>35.20436729,32.10491379,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>222 | frame 9945</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 222
+Frame: 9945
+Time: 331.832
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10491613, 35.20435689</description>
+<Point><coordinates>35.20435689,32.10491613,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>223 | frame 9990</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 223
+Frame: 9990
+Time: 333.333
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10491847, 35.20434649</description>
+<Point><coordinates>35.20434649,32.10491847,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>224 | frame 10035</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 224
+Frame: 10035
+Time: 334.834
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10492082, 35.20433609</description>
+<Point><coordinates>35.20433609,32.10492082,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>225 | frame 10080</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 225
+Frame: 10080
+Time: 336.336
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10492316, 35.20432569</description>
+<Point><coordinates>35.20432569,32.10492316,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>226 | frame 10125</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 226
+Frame: 10125
+Time: 337.838
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10492551, 35.20431529</description>
+<Point><coordinates>35.20431529,32.10492551,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>227 | frame 10170</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 227
+Frame: 10170
+Time: 339.339
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10492785, 35.20430489</description>
+<Point><coordinates>35.20430489,32.10492785,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>228 | frame 10215</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 228
+Frame: 10215
+Time: 340.841
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10493020, 35.20429449</description>
+<Point><coordinates>35.20429449,32.1049302,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>229 | frame 10260</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 229
+Frame: 10260
+Time: 342.342
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10493254, 35.20428409</description>
+<Point><coordinates>35.20428409,32.10493254,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>230 | frame 10305</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 230
+Frame: 10305
+Time: 343.844
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10493488, 35.20427369</description>
+<Point><coordinates>35.20427369,32.10493488,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>231 | frame 10350</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 231
+Frame: 10350
+Time: 345.345
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10493723, 35.20426329</description>
+<Point><coordinates>35.20426329,32.10493723,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>232 | frame 10395</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 232
+Frame: 10395
+Time: 346.846
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10493957, 35.20425289</description>
+<Point><coordinates>35.20425289,32.10493957,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>233 | frame 10440</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 233
+Frame: 10440
+Time: 348.348
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10494192, 35.20424249</description>
+<Point><coordinates>35.20424249,32.10494192,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>234 | frame 10485</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 234
+Frame: 10485
+Time: 349.850
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10494426, 35.20423209</description>
+<Point><coordinates>35.20423209,32.10494426,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>235 | frame 10530</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 235
+Frame: 10530
+Time: 351.351
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10494660, 35.20422169</description>
+<Point><coordinates>35.20422169,32.1049466,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>236 | frame 10575</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 236
+Frame: 10575
+Time: 352.853
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10494895, 35.20421129</description>
+<Point><coordinates>35.20421129,32.10494895,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>237 | frame 10620</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 237
+Frame: 10620
+Time: 354.354
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10495129, 35.20420089</description>
+<Point><coordinates>35.20420089,32.10495129,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>238 | frame 10665</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 238
+Frame: 10665
+Time: 355.856
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10495364, 35.20419049</description>
+<Point><coordinates>35.20419049,32.10495364,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>239 | frame 10710</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 239
+Frame: 10710
+Time: 357.357
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10495598, 35.20418009</description>
+<Point><coordinates>35.20418009,32.10495598,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>240 | frame 10755</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 240
+Frame: 10755
+Time: 358.858
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10495833, 35.20416969</description>
+<Point><coordinates>35.20416969,32.10495833,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>241 | frame 10800</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 241
+Frame: 10800
+Time: 360.360
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10496067, 35.20415929</description>
+<Point><coordinates>35.20415929,32.10496067,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>242 | frame 10845</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 242
+Frame: 10845
+Time: 361.861
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10496301, 35.20414889</description>
+<Point><coordinates>35.20414889,32.10496301,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>243 | frame 10890</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 243
+Frame: 10890
+Time: 363.363
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10496536, 35.20413849</description>
+<Point><coordinates>35.20413849,32.10496536,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>244 | frame 10935</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 244
+Frame: 10935
+Time: 364.865
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10496770, 35.20412809</description>
+<Point><coordinates>35.20412809,32.1049677,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>245 | frame 10980</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 245
+Frame: 10980
+Time: 366.366
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10497005, 35.20411769</description>
+<Point><coordinates>35.20411769,32.10497005,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>246 | frame 11025</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 246
+Frame: 11025
+Time: 367.868
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10497239, 35.20410729</description>
+<Point><coordinates>35.20410729,32.10497239,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>247 | frame 11070</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 247
+Frame: 11070
+Time: 369.369
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10497473, 35.20409689</description>
+<Point><coordinates>35.20409689,32.10497473,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>248 | frame 11115</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 248
+Frame: 11115
+Time: 370.870
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10497708, 35.20408650</description>
+<Point><coordinates>35.2040865,32.10497708,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>249 | frame 11160</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 249
+Frame: 11160
+Time: 372.372
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10497942, 35.20407609</description>
+<Point><coordinates>35.20407609,32.10497942,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>250 | frame 11205</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 250
+Frame: 11205
+Time: 373.873
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10498177, 35.20406570</description>
+<Point><coordinates>35.2040657,32.10498177,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>251 | frame 11250</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 251
+Frame: 11250
+Time: 375.375
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10498411, 35.20405529</description>
+<Point><coordinates>35.20405529,32.10498411,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>252 | frame 11295</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 252
+Frame: 11295
+Time: 376.877
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10498646, 35.20404489</description>
+<Point><coordinates>35.20404489,32.10498646,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>253 | frame 11340</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 253
+Frame: 11340
+Time: 378.378
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10498880, 35.20403449</description>
+<Point><coordinates>35.20403449,32.1049888,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>254 | frame 11385</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 254
+Frame: 11385
+Time: 379.880
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10499114, 35.20402409</description>
+<Point><coordinates>35.20402409,32.10499114,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>255 | frame 11430</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 255
+Frame: 11430
+Time: 381.381
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10499349, 35.20401369</description>
+<Point><coordinates>35.20401369,32.10499349,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>256 | frame 11475</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 256
+Frame: 11475
+Time: 382.882
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10499583, 35.20400330</description>
+<Point><coordinates>35.2040033,32.10499583,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>257 | frame 11520</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 257
+Frame: 11520
+Time: 384.384
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10499818, 35.20399289</description>
+<Point><coordinates>35.20399289,32.10499818,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>258 | frame 11565</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 258
+Frame: 11565
+Time: 385.885
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10500052, 35.20398250</description>
+<Point><coordinates>35.2039825,32.10500052,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>259 | frame 11610</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 259
+Frame: 11610
+Time: 387.387
+Reason: accepted
+Lat/Lon: 32.10473210, 35.20448539</description>
+<Point><coordinates>35.20448539,32.1047321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>260 | frame 11655</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 260
+Frame: 11655
+Time: 388.889
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10500521, 35.20396169</description>
+<Point><coordinates>35.20396169,32.10500521,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>261 | frame 11700</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 261
+Frame: 11700
+Time: 390.390
+Reason: accepted
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>262 | frame 11745</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 262
+Frame: 11745
+Time: 391.892
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10500990, 35.20394089</description>
+<Point><coordinates>35.20394089,32.1050099,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>263 | frame 11790</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 263
+Frame: 11790
+Time: 393.393
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10501224, 35.20393049</description>
+<Point><coordinates>35.20393049,32.10501224,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>264 | frame 11835</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 264
+Frame: 11835
+Time: 394.894
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10501459, 35.20392010</description>
+<Point><coordinates>35.2039201,32.10501459,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>265 | frame 11880</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 265
+Frame: 11880
+Time: 396.396
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10501693, 35.20390969</description>
+<Point><coordinates>35.20390969,32.10501693,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>266 | frame 11925</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 266
+Frame: 11925
+Time: 397.897
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10501927, 35.20389930</description>
+<Point><coordinates>35.2038993,32.10501927,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>267 | frame 11970</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 267
+Frame: 11970
+Time: 399.399
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10502162, 35.20388889</description>
+<Point><coordinates>35.20388889,32.10502162,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>268 | frame 12015</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 268
+Frame: 12015
+Time: 400.901
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10502396, 35.20387849</description>
+<Point><coordinates>35.20387849,32.10502396,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>269 | frame 12060</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 269
+Frame: 12060
+Time: 402.402
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10502631, 35.20386809</description>
+<Point><coordinates>35.20386809,32.10502631,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>270 | frame 12105</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 270
+Frame: 12105
+Time: 403.904
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10502865, 35.20385769</description>
+<Point><coordinates>35.20385769,32.10502865,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>271 | frame 12150</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 271
+Frame: 12150
+Time: 405.405
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10503099, 35.20384729</description>
+<Point><coordinates>35.20384729,32.10503099,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>272 | frame 12195</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 272
+Frame: 12195
+Time: 406.906
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10503334, 35.20383690</description>
+<Point><coordinates>35.2038369,32.10503334,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>273 | frame 12240</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 273
+Frame: 12240
+Time: 408.408
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10503568, 35.20382649</description>
+<Point><coordinates>35.20382649,32.10503568,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>274 | frame 12285</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 274
+Frame: 12285
+Time: 409.909
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10503803, 35.20381610</description>
+<Point><coordinates>35.2038161,32.10503803,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>275 | frame 12330</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 275
+Frame: 12330
+Time: 411.411
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10504037, 35.20380569</description>
+<Point><coordinates>35.20380569,32.10504037,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>276 | frame 12375</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 276
+Frame: 12375
+Time: 412.913
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10504272, 35.20379529</description>
+<Point><coordinates>35.20379529,32.10504272,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>277 | frame 12420</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 277
+Frame: 12420
+Time: 414.414
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10504506, 35.20378489</description>
+<Point><coordinates>35.20378489,32.10504506,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>278 | frame 12465</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 278
+Frame: 12465
+Time: 415.916
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10504740, 35.20377449</description>
+<Point><coordinates>35.20377449,32.1050474,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>279 | frame 12510</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 279
+Frame: 12510
+Time: 417.417
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10504975, 35.20376409</description>
+<Point><coordinates>35.20376409,32.10504975,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>280 | frame 12555</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 280
+Frame: 12555
+Time: 418.918
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10505209, 35.20375370</description>
+<Point><coordinates>35.2037537,32.10505209,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>281 | frame 12600</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 281
+Frame: 12600
+Time: 420.420
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10505444, 35.20374329</description>
+<Point><coordinates>35.20374329,32.10505444,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>282 | frame 12645</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 282
+Frame: 12645
+Time: 421.921
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10505678, 35.20373290</description>
+<Point><coordinates>35.2037329,32.10505678,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>283 | frame 12690</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 283
+Frame: 12690
+Time: 423.423
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10505912, 35.20372249</description>
+<Point><coordinates>35.20372249,32.10505912,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>284 | frame 12735</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 284
+Frame: 12735
+Time: 424.925
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10506147, 35.20371209</description>
+<Point><coordinates>35.20371209,32.10506147,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>285 | frame 12780</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 285
+Frame: 12780
+Time: 426.426
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10506381, 35.20370169</description>
+<Point><coordinates>35.20370169,32.10506381,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>286 | frame 12825</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 286
+Frame: 12825
+Time: 427.928
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10506616, 35.20369129</description>
+<Point><coordinates>35.20369129,32.10506616,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>287 | frame 12870</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 287
+Frame: 12870
+Time: 429.429
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10506850, 35.20368089</description>
+<Point><coordinates>35.20368089,32.1050685,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>288 | frame 12915</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 288
+Frame: 12915
+Time: 430.930
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10507085, 35.20367050</description>
+<Point><coordinates>35.2036705,32.10507085,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>289 | frame 12960</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 289
+Frame: 12960
+Time: 432.432
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10507319, 35.20366009</description>
+<Point><coordinates>35.20366009,32.10507319,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>290 | frame 13005</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 290
+Frame: 13005
+Time: 433.933
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10507553, 35.20364970</description>
+<Point><coordinates>35.2036497,32.10507553,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>291 | frame 13050</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 291
+Frame: 13050
+Time: 435.435
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10507788, 35.20363929</description>
+<Point><coordinates>35.20363929,32.10507788,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>292 | frame 13095</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 292
+Frame: 13095
+Time: 436.937
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10508022, 35.20362889</description>
+<Point><coordinates>35.20362889,32.10508022,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>293 | frame 13140</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 293
+Frame: 13140
+Time: 438.438
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10508257, 35.20361849</description>
+<Point><coordinates>35.20361849,32.10508257,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>294 | frame 13185</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 294
+Frame: 13185
+Time: 439.940
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10508491, 35.20360809</description>
+<Point><coordinates>35.20360809,32.10508491,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>295 | frame 13230</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 295
+Frame: 13230
+Time: 441.441
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10508725, 35.20359769</description>
+<Point><coordinates>35.20359769,32.10508725,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>296 | frame 13275</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 296
+Frame: 13275
+Time: 442.942
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10508960, 35.20358730</description>
+<Point><coordinates>35.2035873,32.1050896,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>297 | frame 13320</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 297
+Frame: 13320
+Time: 444.444
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10509194, 35.20357689</description>
+<Point><coordinates>35.20357689,32.10509194,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>298 | frame 13365</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 298
+Frame: 13365
+Time: 445.945
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10509429, 35.20356650</description>
+<Point><coordinates>35.2035665,32.10509429,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>299 | frame 13410</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 299
+Frame: 13410
+Time: 447.447
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10509663, 35.20355609</description>
+<Point><coordinates>35.20355609,32.10509663,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>300 | frame 13455</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 300
+Frame: 13455
+Time: 448.949
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10509898, 35.20354569</description>
+<Point><coordinates>35.20354569,32.10509898,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>301 | frame 13500</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 301
+Frame: 13500
+Time: 450.450
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10510132, 35.20353529</description>
+<Point><coordinates>35.20353529,32.10510132,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>302 | frame 13545</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 302
+Frame: 13545
+Time: 451.952
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10510366, 35.20352489</description>
+<Point><coordinates>35.20352489,32.10510366,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>303 | frame 13590</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 303
+Frame: 13590
+Time: 453.453
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10510601, 35.20351449</description>
+<Point><coordinates>35.20351449,32.10510601,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>304 | frame 13635</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 304
+Frame: 13635
+Time: 454.954
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10510835, 35.20350410</description>
+<Point><coordinates>35.2035041,32.10510835,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>305 | frame 13680</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 305
+Frame: 13680
+Time: 456.456
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10511070, 35.20349369</description>
+<Point><coordinates>35.20349369,32.1051107,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>306 | frame 13725</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 306
+Frame: 13725
+Time: 457.957
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10511304, 35.20348330</description>
+<Point><coordinates>35.2034833,32.10511304,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>307 | frame 13770</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 307
+Frame: 13770
+Time: 459.459
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10511538, 35.20347289</description>
+<Point><coordinates>35.20347289,32.10511538,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>308 | frame 13815</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 308
+Frame: 13815
+Time: 460.961
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10511773, 35.20346249</description>
+<Point><coordinates>35.20346249,32.10511773,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>309 | frame 13860</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 309
+Frame: 13860
+Time: 462.462
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10512007, 35.20345209</description>
+<Point><coordinates>35.20345209,32.10512007,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>310 | frame 13905</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 310
+Frame: 13905
+Time: 463.964
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10512242, 35.20344169</description>
+<Point><coordinates>35.20344169,32.10512242,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>311 | frame 13950</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 311
+Frame: 13950
+Time: 465.465
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10512476, 35.20343129</description>
+<Point><coordinates>35.20343129,32.10512476,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>312 | frame 13995</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 312
+Frame: 13995
+Time: 466.966
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10512711, 35.20342090</description>
+<Point><coordinates>35.2034209,32.10512711,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>313 | frame 14040</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 313
+Frame: 14040
+Time: 468.468
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10512945, 35.20341050</description>
+<Point><coordinates>35.2034105,32.10512945,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>314 | frame 14085</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 314
+Frame: 14085
+Time: 469.969
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10513179, 35.20340010</description>
+<Point><coordinates>35.2034001,32.10513179,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>315 | frame 14130</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 315
+Frame: 14130
+Time: 471.471
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10513414, 35.20338970</description>
+<Point><coordinates>35.2033897,32.10513414,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>316 | frame 14175</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 316
+Frame: 14175
+Time: 472.973
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10513648, 35.20337929</description>
+<Point><coordinates>35.20337929,32.10513648,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>317 | frame 14220</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 317
+Frame: 14220
+Time: 474.474
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10513883, 35.20336890</description>
+<Point><coordinates>35.2033689,32.10513883,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>318 | frame 14265</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 318
+Frame: 14265
+Time: 475.976
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10514117, 35.20335849</description>
+<Point><coordinates>35.20335849,32.10514117,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>319 | frame 14310</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 319
+Frame: 14310
+Time: 477.477
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10514351, 35.20334810</description>
+<Point><coordinates>35.2033481,32.10514351,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>320 | frame 14355</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 320
+Frame: 14355
+Time: 478.978
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10514586, 35.20333770</description>
+<Point><coordinates>35.2033377,32.10514586,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>321 | frame 14400</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 321
+Frame: 14400
+Time: 480.480
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10514820, 35.20332730</description>
+<Point><coordinates>35.2033273,32.1051482,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>322 | frame 14445</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 322
+Frame: 14445
+Time: 481.981
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10515055, 35.20331690</description>
+<Point><coordinates>35.2033169,32.10515055,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>323 | frame 14490</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 323
+Frame: 14490
+Time: 483.483
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10515289, 35.20330650</description>
+<Point><coordinates>35.2033065,32.10515289,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>324 | frame 14535</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 324
+Frame: 14535
+Time: 484.985
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10515524, 35.20329609</description>
+<Point><coordinates>35.20329609,32.10515524,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>325 | frame 14580</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 325
+Frame: 14580
+Time: 486.486
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10515758, 35.20328570</description>
+<Point><coordinates>35.2032857,32.10515758,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>326 | frame 14625</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 326
+Frame: 14625
+Time: 487.988
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10515992, 35.20327529</description>
+<Point><coordinates>35.20327529,32.10515992,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>327 | frame 14670</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 327
+Frame: 14670
+Time: 489.489
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10516227, 35.20326490</description>
+<Point><coordinates>35.2032649,32.10516227,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>328 | frame 14715</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 328
+Frame: 14715
+Time: 490.990
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10516461, 35.20325450</description>
+<Point><coordinates>35.2032545,32.10516461,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>329 | frame 14760</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 329
+Frame: 14760
+Time: 492.492
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10516696, 35.20324410</description>
+<Point><coordinates>35.2032441,32.10516696,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>330 | frame 14805</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 330
+Frame: 14805
+Time: 493.993
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10516930, 35.20323370</description>
+<Point><coordinates>35.2032337,32.1051693,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>331 | frame 14850</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 331
+Frame: 14850
+Time: 495.495
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10517164, 35.20322330</description>
+<Point><coordinates>35.2032233,32.10517164,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>332 | frame 14895</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 332
+Frame: 14895
+Time: 496.997
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10517399, 35.20321289</description>
+<Point><coordinates>35.20321289,32.10517399,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>333 | frame 14940</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 333
+Frame: 14940
+Time: 498.498
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10517633, 35.20320250</description>
+<Point><coordinates>35.2032025,32.10517633,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>334 | frame 14985</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 334
+Frame: 14985
+Time: 500.000
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10517868, 35.20319209</description>
+<Point><coordinates>35.20319209,32.10517868,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>335 | frame 15030</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 335
+Frame: 15030
+Time: 501.501
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10518102, 35.20318170</description>
+<Point><coordinates>35.2031817,32.10518102,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>336 | frame 15075</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 336
+Frame: 15075
+Time: 503.002
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10518337, 35.20317130</description>
+<Point><coordinates>35.2031713,32.10518337,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>337 | frame 15120</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 337
+Frame: 15120
+Time: 504.504
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10518571, 35.20316090</description>
+<Point><coordinates>35.2031609,32.10518571,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>338 | frame 15165</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 338
+Frame: 15165
+Time: 506.005
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10518805, 35.20315050</description>
+<Point><coordinates>35.2031505,32.10518805,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>339 | frame 15210</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 339
+Frame: 15210
+Time: 507.507
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519040, 35.20314010</description>
+<Point><coordinates>35.2031401,32.1051904,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>340 | frame 15255</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 340
+Frame: 15255
+Time: 509.009
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519274, 35.20312969</description>
+<Point><coordinates>35.20312969,32.10519274,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>341 | frame 15300</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 341
+Frame: 15300
+Time: 510.510
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519509, 35.20311930</description>
+<Point><coordinates>35.2031193,32.10519509,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>342 | frame 15345</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 342
+Frame: 15345
+Time: 512.011
+Reason: accepted
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>343 | frame 15390</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 343
+Frame: 15390
+Time: 513.513
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>344 | frame 15435</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 344
+Frame: 15435
+Time: 515.014
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>345 | frame 15480</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 345
+Frame: 15480
+Time: 516.516
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>346 | frame 15525</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 346
+Frame: 15525
+Time: 518.018
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>347 | frame 15570</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 347
+Frame: 15570
+Time: 519.519
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>348 | frame 15615</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 348
+Frame: 15615
+Time: 521.020
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>349 | frame 15660</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 349
+Frame: 15660
+Time: 522.522
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>350 | frame 15705</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 350
+Frame: 15705
+Time: 524.024
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>351 | frame 15750</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 351
+Frame: 15750
+Time: 525.525
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>352 | frame 15795</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 352
+Frame: 15795
+Time: 527.027
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>353 | frame 15840</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 353
+Frame: 15840
+Time: 528.528
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>354 | frame 15885</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 354
+Frame: 15885
+Time: 530.029
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>355 | frame 15930</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 355
+Frame: 15930
+Time: 531.531
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>356 | frame 15975</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 356
+Frame: 15975
+Time: 533.033
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>357 | frame 16020</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 357
+Frame: 16020
+Time: 534.534
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>358 | frame 16065</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 358
+Frame: 16065
+Time: 536.035
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>359 | frame 16110</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 359
+Frame: 16110
+Time: 537.537
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>360 | frame 16155</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 360
+Frame: 16155
+Time: 539.038
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>361 | frame 16200</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 361
+Frame: 16200
+Time: 540.540
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>362 | frame 16245</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 362
+Frame: 16245
+Time: 542.042
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>363 | frame 16290</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 363
+Frame: 16290
+Time: 543.543
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>364 | frame 16335</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 364
+Frame: 16335
+Time: 545.044
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>365 | frame 16380</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 365
+Frame: 16380
+Time: 546.546
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>366 | frame 16425</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 366
+Frame: 16425
+Time: 548.048
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>367 | frame 16470</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 367
+Frame: 16470
+Time: 549.549
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>368 | frame 16515</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 368
+Frame: 16515
+Time: 551.051
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>369 | frame 16560</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 369
+Frame: 16560
+Time: 552.552
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>370 | frame 16605</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 370
+Frame: 16605
+Time: 554.053
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>371 | frame 16650</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 371
+Frame: 16650
+Time: 555.555
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>372 | frame 16695</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 372
+Frame: 16695
+Time: 557.057
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>373 | frame 16740</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 373
+Frame: 16740
+Time: 558.558
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>374 | frame 16785</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 374
+Frame: 16785
+Time: 560.059
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>375 | frame 16830</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 375
+Frame: 16830
+Time: 561.561
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>376 | frame 16875</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 376
+Frame: 16875
+Time: 563.062
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>377 | frame 16920</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 377
+Frame: 16920
+Time: 564.564
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>378 | frame 16965</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 378
+Frame: 16965
+Time: 566.066
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>379 | frame 17010</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 379
+Frame: 17010
+Time: 567.567
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>380 | frame 17055</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 380
+Frame: 17055
+Time: 569.068
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>381 | frame 17100</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 381
+Frame: 17100
+Time: 570.570
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>382 | frame 17145</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 382
+Frame: 17145
+Time: 572.072
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>383 | frame 17190</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 383
+Frame: 17190
+Time: 573.573
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>384 | frame 17235</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 384
+Frame: 17235
+Time: 575.075
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>385 | frame 17280</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 385
+Frame: 17280
+Time: 576.576
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>386 | frame 17325</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 386
+Frame: 17325
+Time: 578.077
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>387 | frame 17370</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 387
+Frame: 17370
+Time: 579.579
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>388 | frame 17415</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 388
+Frame: 17415
+Time: 581.081
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>389 | frame 17460</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 389
+Frame: 17460
+Time: 582.582
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>390 | frame 17505</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 390
+Frame: 17505
+Time: 584.083
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>391 | frame 17550</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 391
+Frame: 17550
+Time: 585.585
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>392 | frame 17595</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 392
+Frame: 17595
+Time: 587.087
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>393 | frame 17640</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 393
+Frame: 17640
+Time: 588.588
+Reason: accepted
+Lat/Lon: 32.10499654, 35.20306231</description>
+<Point><coordinates>35.20306231,32.10499654,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>394 | frame 17685</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 394
+Frame: 17685
+Time: 590.090
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>395 | frame 17730</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 395
+Frame: 17730
+Time: 591.591
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>396 | frame 17775</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 396
+Frame: 17775
+Time: 593.092
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>397 | frame 17820</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 397
+Frame: 17820
+Time: 594.594
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>398 | frame 17865</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 398
+Frame: 17865
+Time: 596.096
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>399 | frame 17910</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 399
+Frame: 17910
+Time: 597.597
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>400 | frame 17955</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 400
+Frame: 17955
+Time: 599.099
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>401 | frame 18000</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 401
+Frame: 18000
+Time: 600.600
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>402 | frame 18045</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 402
+Frame: 18045
+Time: 602.101
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>403 | frame 18090</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 403
+Frame: 18090
+Time: 603.603
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>404 | frame 18135</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 404
+Frame: 18135
+Time: 605.105
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>405 | frame 18180</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 405
+Frame: 18180
+Time: 606.606
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>406 | frame 18225</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 406
+Frame: 18225
+Time: 608.107
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>407 | frame 18270</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 407
+Frame: 18270
+Time: 609.609
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>408 | frame 18315</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 408
+Frame: 18315
+Time: 611.111
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>409 | frame 18360</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 409
+Frame: 18360
+Time: 612.612
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>410 | frame 18405</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 410
+Frame: 18405
+Time: 614.114
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>411 | frame 18450</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 411
+Frame: 18450
+Time: 615.615
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>412 | frame 18495</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 412
+Frame: 18495
+Time: 617.116
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>413 | frame 18540</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 413
+Frame: 18540
+Time: 618.618
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>414 | frame 18585</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 414
+Frame: 18585
+Time: 620.120
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>415 | frame 18630</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 415
+Frame: 18630
+Time: 621.621
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>416 | frame 18675</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 416
+Frame: 18675
+Time: 623.123
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>417 | frame 18720</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 417
+Frame: 18720
+Time: 624.624
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>418 | frame 18765</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 418
+Frame: 18765
+Time: 626.125
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>419 | frame 18810</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 419
+Frame: 18810
+Time: 627.627
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>420 | frame 18855</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 420
+Frame: 18855
+Time: 629.129
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>421 | frame 18900</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 421
+Frame: 18900
+Time: 630.630
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>422 | frame 18945</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 422
+Frame: 18945
+Time: 632.131
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>423 | frame 18990</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 423
+Frame: 18990
+Time: 633.633
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>424 | frame 19035</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 424
+Frame: 19035
+Time: 635.135
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>425 | frame 19080</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 425
+Frame: 19080
+Time: 636.636
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>426 | frame 19125</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 426
+Frame: 19125
+Time: 638.138
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>427 | frame 19170</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 427
+Frame: 19170
+Time: 639.639
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>428 | frame 19215</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 428
+Frame: 19215
+Time: 641.140
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>429 | frame 19260</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 429
+Frame: 19260
+Time: 642.642
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>430 | frame 19305</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 430
+Frame: 19305
+Time: 644.144
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>431 | frame 19350</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 431
+Frame: 19350
+Time: 645.645
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>432 | frame 19395</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 432
+Frame: 19395
+Time: 647.147
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>433 | frame 19440</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 433
+Frame: 19440
+Time: 648.648
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>434 | frame 19485</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 434
+Frame: 19485
+Time: 650.149
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>435 | frame 19530</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 435
+Frame: 19530
+Time: 651.651
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>436 | frame 19575</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 436
+Frame: 19575
+Time: 653.153
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>437 | frame 19620</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 437
+Frame: 19620
+Time: 654.654
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>438 | frame 19665</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 438
+Frame: 19665
+Time: 656.155
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>439 | frame 19710</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 439
+Frame: 19710
+Time: 657.657
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>440 | frame 19755</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 440
+Frame: 19755
+Time: 659.159
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>441 | frame 19800</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 441
+Frame: 19800
+Time: 660.660
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>442 | frame 19845</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 442
+Frame: 19845
+Time: 662.162
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>443 | frame 19890</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 443
+Frame: 19890
+Time: 663.663
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>444 | frame 19935</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 444
+Frame: 19935
+Time: 665.164
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>445 | frame 19980</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 445
+Frame: 19980
+Time: 666.666
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>446 | frame 20025</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 446
+Frame: 20025
+Time: 668.168
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>447 | frame 20070</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 447
+Frame: 20070
+Time: 669.669
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>448 | frame 20115</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 448
+Frame: 20115
+Time: 671.171
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>449 | frame 20160</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 449
+Frame: 20160
+Time: 672.672
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>450 | frame 20205</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 450
+Frame: 20205
+Time: 674.173
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>451 | frame 20250</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 451
+Frame: 20250
+Time: 675.675
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>452 | frame 20295</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 452
+Frame: 20295
+Time: 677.177
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>453 | frame 20340</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 453
+Frame: 20340
+Time: 678.678
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>454 | frame 20385</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 454
+Frame: 20385
+Time: 680.179
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>455 | frame 20430</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 455
+Frame: 20430
+Time: 681.681
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>456 | frame 20475</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 456
+Frame: 20475
+Time: 683.183
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>457 | frame 20520</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 457
+Frame: 20520
+Time: 684.684
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>458 | frame 20565</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 458
+Frame: 20565
+Time: 686.186
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>459 | frame 20610</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 459
+Frame: 20610
+Time: 687.687
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>460 | frame 20655</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 460
+Frame: 20655
+Time: 689.188
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>461 | frame 20700</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 461
+Frame: 20700
+Time: 690.690
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>462 | frame 20745</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 462
+Frame: 20745
+Time: 692.192
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>463 | frame 20790</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 463
+Frame: 20790
+Time: 693.693
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>464 | frame 20835</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 464
+Frame: 20835
+Time: 695.195
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>465 | frame 20880</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 465
+Frame: 20880
+Time: 696.696
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>466 | frame 20925</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 466
+Frame: 20925
+Time: 698.197
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>467 | frame 20970</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 467
+Frame: 20970
+Time: 699.699
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>468 | frame 21015</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 468
+Frame: 21015
+Time: 701.201
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>469 | frame 21060</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 469
+Frame: 21060
+Time: 702.702
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>470 | frame 21105</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 470
+Frame: 21105
+Time: 704.203
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>471 | frame 21150</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 471
+Frame: 21150
+Time: 705.705
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>472 | frame 21195</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 472
+Frame: 21195
+Time: 707.207
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>473 | frame 21240</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 473
+Frame: 21240
+Time: 708.708
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>474 | frame 21285</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 474
+Frame: 21285
+Time: 710.210
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>475 | frame 21330</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 475
+Frame: 21330
+Time: 711.711
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>476 | frame 21375</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 476
+Frame: 21375
+Time: 713.212
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>477 | frame 21420</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 477
+Frame: 21420
+Time: 714.714
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>478 | frame 21465</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 478
+Frame: 21465
+Time: 716.216
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>479 | frame 21510</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 479
+Frame: 21510
+Time: 717.717
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>480 | frame 21555</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 480
+Frame: 21555
+Time: 719.219
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>481 | frame 21600</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 481
+Frame: 21600
+Time: 720.720
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>482 | frame 21645</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 482
+Frame: 21645
+Time: 722.221
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>483 | frame 21690</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 483
+Frame: 21690
+Time: 723.723
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>484 | frame 21735</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 484
+Frame: 21735
+Time: 725.225
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>485 | frame 21780</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 485
+Frame: 21780
+Time: 726.726
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>486 | frame 21825</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 486
+Frame: 21825
+Time: 728.227
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>487 | frame 21870</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 487
+Frame: 21870
+Time: 729.729
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>488 | frame 21915</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 488
+Frame: 21915
+Time: 731.231
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>489 | frame 21960</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 489
+Frame: 21960
+Time: 732.732
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>490 | frame 22005</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 490
+Frame: 22005
+Time: 734.234
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>491 | frame 22050</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 491
+Frame: 22050
+Time: 735.735
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>492 | frame 22095</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 492
+Frame: 22095
+Time: 737.236
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>493 | frame 22140</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 493
+Frame: 22140
+Time: 738.738
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>494 | frame 22185</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 494
+Frame: 22185
+Time: 740.240
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>495 | frame 22230</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 495
+Frame: 22230
+Time: 741.741
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>496 | frame 22275</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 496
+Frame: 22275
+Time: 743.243
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>497 | frame 22320</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 497
+Frame: 22320
+Time: 744.744
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>498 | frame 22365</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 498
+Frame: 22365
+Time: 746.245
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>499 | frame 22410</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 499
+Frame: 22410
+Time: 747.747
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>500 | frame 22455</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 500
+Frame: 22455
+Time: 749.249
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>501 | frame 22500</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 501
+Frame: 22500
+Time: 750.750
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>502 | frame 22545</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 502
+Frame: 22545
+Time: 752.251
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>503 | frame 22590</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 503
+Frame: 22590
+Time: 753.753
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>504 | frame 22635</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 504
+Frame: 22635
+Time: 755.255
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>505 | frame 22680</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 505
+Frame: 22680
+Time: 756.756
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>506 | frame 22725</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 506
+Frame: 22725
+Time: 758.258
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>507 | frame 22770</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 507
+Frame: 22770
+Time: 759.759
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>508 | frame 22815</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 508
+Frame: 22815
+Time: 761.260
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>509 | frame 22860</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 509
+Frame: 22860
+Time: 762.762
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>510 | frame 22905</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 510
+Frame: 22905
+Time: 764.264
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>511 | frame 22950</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 511
+Frame: 22950
+Time: 765.765
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>512 | frame 22995</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 512
+Frame: 22995
+Time: 767.267
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>513 | frame 23040</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 513
+Frame: 23040
+Time: 768.768
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>514 | frame 23085</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 514
+Frame: 23085
+Time: 770.269
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>515 | frame 23130</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 515
+Frame: 23130
+Time: 771.771
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>516 | frame 23175</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 516
+Frame: 23175
+Time: 773.273
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>517 | frame 23220</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 517
+Frame: 23220
+Time: 774.774
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>518 | frame 23265</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 518
+Frame: 23265
+Time: 776.275
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>519 | frame 23310</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 519
+Frame: 23310
+Time: 777.777
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>520 | frame 23355</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 520
+Frame: 23355
+Time: 779.279
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>521 | frame 23400</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 521
+Frame: 23400
+Time: 780.780
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>522 | frame 23445</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 522
+Frame: 23445
+Time: 782.282
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>523 | frame 23490</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 523
+Frame: 23490
+Time: 783.783
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>524 | frame 23535</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 524
+Frame: 23535
+Time: 785.284
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>525 | frame 23580</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 525
+Frame: 23580
+Time: 786.786
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>526 | frame 23625</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 526
+Frame: 23625
+Time: 788.288
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>527 | frame 23670</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 527
+Frame: 23670
+Time: 789.789
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>528 | frame 23715</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 528
+Frame: 23715
+Time: 791.291
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>529 | frame 23760</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 529
+Frame: 23760
+Time: 792.792
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>530 | frame 23805</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 530
+Frame: 23805
+Time: 794.293
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>531 | frame 23850</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 531
+Frame: 23850
+Time: 795.795
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>532 | frame 23895</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 532
+Frame: 23895
+Time: 797.297
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>533 | frame 23940</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 533
+Frame: 23940
+Time: 798.798
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>534 | frame 23985</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 534
+Frame: 23985
+Time: 800.299
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>535 | frame 24030</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 535
+Frame: 24030
+Time: 801.801
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>536 | frame 24075</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 536
+Frame: 24075
+Time: 803.303
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>537 | frame 24120</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 537
+Frame: 24120
+Time: 804.804
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>538 | frame 24165</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 538
+Frame: 24165
+Time: 806.306
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>539 | frame 24210</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 539
+Frame: 24210
+Time: 807.807
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>540 | frame 24255</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 540
+Frame: 24255
+Time: 809.308
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>541 | frame 24300</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 541
+Frame: 24300
+Time: 810.810
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>542 | frame 24345</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 542
+Frame: 24345
+Time: 812.312
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>543 | frame 24390</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 543
+Frame: 24390
+Time: 813.813
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>544 | frame 24435</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 544
+Frame: 24435
+Time: 815.315
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>545 | frame 24480</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 545
+Frame: 24480
+Time: 816.816
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>546 | frame 24525</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 546
+Frame: 24525
+Time: 818.317
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>547 | frame 24570</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 547
+Frame: 24570
+Time: 819.819
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>548 | frame 24615</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 548
+Frame: 24615
+Time: 821.321
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>549 | frame 24660</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 549
+Frame: 24660
+Time: 822.822
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>550 | frame 24705</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 550
+Frame: 24705
+Time: 824.323
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>551 | frame 24750</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 551
+Frame: 24750
+Time: 825.825
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>552 | frame 24795</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 552
+Frame: 24795
+Time: 827.327
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>553 | frame 24840</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 553
+Frame: 24840
+Time: 828.828
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>554 | frame 24885</name>
+<styleUrl>#numberedPoint</styleUrl>
+<description>Order: 554
+Frame: 24885
+Time: 830.330
+Reason: stage10_no_local_path_match
+Lat/Lon: 32.10519743, 35.20310890</description>
+<Point><coordinates>35.2031089,32.10519743,0</coordinates></Point>
+</Placemark>
+</Document></kml>

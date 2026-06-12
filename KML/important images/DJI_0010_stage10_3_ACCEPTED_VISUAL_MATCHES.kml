@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DJI_0010 Stage 10.3 accepted visual matches</name>
+
+        <Placemark>
+          <name>DJI_0010_stage10_3_merged_tail_rescue_top8 predicted center-point path</name>
+          <description>Predicted GNSS-denied center-point path from DJI_0010_stage10_3_merged_tail_rescue_top8.csv</description>
+          <Style>
+            <LineStyle><width>4</width></LineStyle>
+          </Style>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>
+              35.20389685,32.10399478,0.000
+              35.20440889,32.10490441,0.000
+              35.20448539,32.10473210,0.000
+              35.20448539,32.10473210,0.000
+              35.20361358,32.10340579,0.000
+              35.20353054,32.10349836,0.000
+              35.20361358,32.10340579,0.000
+              35.20389685,32.10399478,0.000
+              35.20389685,32.10399478,0.000
+              35.20275048,32.10506664,0.000
+              35.20333357,32.10467622,0.000
+              35.20322231,32.10475553,0.000
+              35.20276147,32.10523673,0.000
+              35.20279876,32.10538383,0.000
+              35.20389685,32.10399478,0.000
+              35.20440889,32.10490441,0.000
+              35.20448539,32.10473210,0.000
+              35.20310890,32.10519743,0.000
+              35.20310890,32.10519743,0.000
+              35.20306231,32.10499654,0.000
+            </coordinates>
+          </LineString>
+        </Placemark>
+
+        <Placemark>
+          <name>DJI_0010_stage10_3_merged_tail_rescue_top8 predicted center-point path start</name>
+          
+          <Point><coordinates>35.20389685,32.10399478,0.000</coordinates></Point>
+        </Placemark>
+
+        <Placemark>
+          <name>DJI_0010_stage10_3_merged_tail_rescue_top8 predicted center-point path end</name>
+          
+          <Point><coordinates>35.20306231,32.10499654,0.000</coordinates></Point>
+        </Placemark>
+  </Document>
+</kml>
