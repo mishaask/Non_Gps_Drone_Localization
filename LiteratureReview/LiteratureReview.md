@@ -1,4 +1,4 @@
-Literature Review: Visual Navigation for Drones in GNSS-Denied Conditions
+***Literature Review: Visual Navigation for Drones in GNSS-Denied Conditions***
 
 **Assignment Context and Problem Definition**
   
