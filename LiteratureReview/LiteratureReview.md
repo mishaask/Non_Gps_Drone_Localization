@@ -162,10 +162,10 @@
 **Object Detection and Segmentation Methods**
 
 Object detection and segmentation methods such as YOLO, SAM, FastSAM, SAM2, SegFormer, Mask2Former, and DeepLab-style models were considered as possible supporting tools, but they are not part of the current localization pipeline.
-Source: my Final project revolves around yolo and sam
+Source: My final project revolves around yolo and sam so they were considered.
 
 **Conclusion**
-  The literature shows that GNSS-denied drone navigation should be treated primarily as an absolute visual localization problem. Pure SLAM systems such as ORB-SLAM3 and DROID-SLAM are powerful for relative motion estimation,
+  The literature shows that GNSS-denied drone navigation should be treated primarily as an absolute visual localization problem. Pure SLAM systems such as ORB-SLAM3 are powerful for relative motion estimation,
   but they do not directly provide global latitude/longitude without geo-referenced alignment. Object detection and segmentation models can provide useful semantic information, but they also do not directly solve geographic localization.
 
   The most appropriate direction for this project is therefore a hierarchical visual localization pipeline. Recent VPR methods such as AnyLoc and foundation features such as DINOv2 support robust candidate retrieval under viewpoint, altitude,
